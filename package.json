@@ -1,0 +1,27 @@
+{
+  "name": "meadowlark.js",
+  "version": "1.0.0",
+  "description": "Curiosity Project ",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supermentor/Meadowlark-Travel.git"
+  },
+  "keywords": [
+    "curiosity",
+    "project",
+    "travel"
+  ],
+  "author": "Artur Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supermentor/Meadowlark-Travel/issues"
+  },
+  "homepage": "https://github.com/supermentor/Meadowlark-Travel#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
